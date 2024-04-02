@@ -5,7 +5,9 @@ const props = defineProps<{
 </script>
 
 <template>
-  <header class="mx-auto my-0 w-50">
-    header
-  </header>
+  <div mx-auto py-4 flex justify-center>
+    <div w-120 font-nunito text="xl white">
+      Pomodoro
+    </div>
+  </div>
 </template>

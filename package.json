@@ -20,6 +20,7 @@
     "@nuxt/eslint": "0.3.0-beta.3",
     "@unocss/eslint-config": "^0.58.7",
     "@unocss/nuxt": "^0.58.7",
+    "@vueuse/nuxt": "^10.9.0",
     "unocss": "^0.58.7"
   }
 }
